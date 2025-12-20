@@ -1,0 +1,8 @@
+{
+  "name": "EcoSort AI - Intelligence au Service du Recyclage",
+  "description": "Une plateforme avancée utilisant l'intelligence artificielle pour révolutionner le tri et le recyclage des déchets, conçue pour un impact environnemental global.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
