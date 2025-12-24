@@ -1,6 +1,6 @@
 {
-  "name": "EcoSort AI - Intelligence au Service du Recyclage",
-  "description": "Une plateforme avancée utilisant l'intelligence artificielle pour révolutionner le tri et le recyclage des déchets, conçue pour un impact environnemental global.",
+  "name": "Symbiose AI - L'intelligence au Service de la Terre",
+  "description": "Une plateforme avant-gardiste fusionnant l'IA et l'écologie pour une gestion intelligente et durable des ressources.",
   "requestFramePermissions": [
     "camera",
     "microphone"
